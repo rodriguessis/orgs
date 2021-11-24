@@ -9,6 +9,7 @@ import br.com.projecta.orgs.dao.ProdutosDao
 import br.com.projecta.orgs.model.Produto
 import java.math.BigDecimal
 
+// cadastro de Produtos..
 class FormProdutoActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
