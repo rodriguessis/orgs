@@ -3,6 +3,7 @@ package br.com.projecta.orgs.dao
 import br.com.projecta.orgs.model.Produto
 import java.math.BigDecimal
 
+// interface com banco de dados
 class ProdutosDao {
 
     companion object {
